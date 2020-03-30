@@ -43,9 +43,9 @@ DeepWalk算法包括两个步骤，第一步为随机游走采样节点序列，
 	
 ### 参考资料
 
-1. [](https://zhuanlan.zhihu.com/p/56380812)
+1. [DeepWalk：算法原理，实现和应用](https://zhuanlan.zhihu.com/p/56380812)
 
-2. [](https://zhuanlan.zhihu.com/p/43972372)
+2. [Graph Neural Network Review](https://zhuanlan.zhihu.com/p/43972372)
 
 
 
